@@ -3,6 +3,9 @@
 ![Preview](https://raw.githubusercontent.com/Muhammad-Zain01/Currency_Converter/main/preview.png)
 
 [Click Here to See the Web App](https://muhammad-zain01.github.io/Currency_Converter/)
+## Dercription:
+
+Unleash the power of real-time currency conversion at your fingertips with our Currency Converter App, built using the robust and efficient React.js framework. With a sleek and intuitive user interface, this app allows you to effortlessly convert currencies across multiple countries in a jiffy. The app employs up-to-date exchange rates to provide accurate conversions, ensuring you are always in the know. Whether you are a traveler, a business professional, or someone curious about global currencies, our app serves as a handy tool to meet all your currency conversion needs swiftly and reliably.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
