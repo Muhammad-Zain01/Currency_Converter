@@ -3,23 +3,23 @@
 
 <h3 align="center">Currency Converter App</h3>
 <div>
-    <a href="https://github.com/muhammad-zain01/Github-Users/graphs/contributors"><img src="https://img.shields.io/github/contributors/muhammad-zain01/Github-Users.svg?style=for-the-badge" /></a>
-    <a href="https://github.com/muhammad-zain01/Github-Users/network/members"><img src="https://img.shields.io/github/forks/muhammad-zain01/Github-Users.svg?style=for-the-badge" /></a>
-    <a href="https://github.com/muhammad-zain01/Github-Users/stargazers"><img src="https://img.shields.io/github/stars/muhammad-zain01/Github-Users.svg?style=for-the-badge" /></a>
-    <a href="https://github.com/muhammad-zain01/Github-Users/issues"><img src="https://img.shields.io/github/issues/muhammad-zain01/Github-Users.svg?style=for-the-badge" /></a>
+    <a href="https://github.com/muhammad-zain01/Currency_Converter/graphs/contributors"><img src="https://img.shields.io/github/contributors/muhammad-zain01/Currency_Converter.svg?style=for-the-badge" /></a>
+    <a href="https://github.com/muhammad-zain01/Currency_Converter/network/members"><img src="https://img.shields.io/github/forks/muhammad-zain01/Currency_Converter.svg?style=for-the-badge" /></a>
+    <a href="https://github.com/muhammad-zain01/Currency_Converter/stargazers"><img src="https://img.shields.io/github/stars/muhammad-zain01/Currency_Converter.svg?style=for-the-badge" /></a>
+    <a href="https://github.com/muhammad-zain01/Currency_Converter/issues"><img src="https://img.shields.io/github/issues/muhammad-zain01/Currency_Converter.svg?style=for-the-badge" /></a>
 </div>
 
   <p align="center" style="text-align: justify;">
     Welcome to the GitHub User Directory - your portal to explore and discover GitHub users along with their followers and repositories. Our application offers a user-friendly interface that allows you to search for GitHub profiles using usernames. Once a profile is found, the app presents a detailed view including the user's avatar, bio, and a comprehensive list of their public repositories. Additionally, you can delve into the user's network by viewing a list of their followers, making it easier to explore community connections and collaborations.
   </p>
-    <a href="https://github.com/muhammad-zain01/Github-Users"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/muhammad-zain01/Currency_Converter"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://muhammad-zain01.github.io/Github-Users/">View Demo</a>
+    <a href="https://muhammad-zain01.github.io/Currency_Converter/">View Demo</a>
     -
-    <a href="https://github.com/muhammad-zain01/Github-Users/issues">Report Bug</a>
+    <a href="https://github.com/muhammad-zain01/Currency_Converter/issues">Report Bug</a>
     -
-    <a href="https://github.com/muhammad-zain01/Github-Users/issues">Request Feature</a>
+    <a href="https://github.com/muhammad-zain01/Currency_Converter/issues">Request Feature</a>
     <br />
     <br />
     <br />
@@ -56,13 +56,13 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/muhammad-zain01/Github-Users.git
+   git clone https://github.com/muhammad-zain01/Currency_Converter.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
-See the [open issues](https://github.com/muhammad-zain01/Github-Users/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/muhammad-zain01/Currency_Converter/issues) for a full list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -85,22 +85,22 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - zainmemon010@gmail.com
 
-Project Link: [https://github.com/muhammad-zain01/Github-Users](https://github.com/muhammad-zain01/Github-Users)
+Project Link: [https://github.com/muhammad-zain01/Currency_Converter](https://github.com/muhammad-zain01/Currency_Converter)
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/muhammad-zain01/Github-Users.svg?style=for-the-badge
-[contributors-url]: https://github.com/muhammad-zain01/Github-Users/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/muhammad-zain01/Github-Users.svg?style=for-the-badge
-[forks-url]: https://github.com/muhammad-zain01/Github-Users/network/members
-[stars-shield]: https://img.shields.io/github/stars/muhammad-zain01/Github-Users.svg?style=for-the-badge
-[stars-url]: https://github.com/muhammad-zain01/Github-Users/stargazers
-[issues-shield]: https://img.shields.io/github/issues/muhammad-zain01/Github-Users.svg?style=for-the-badge
-[issues-url]: https://github.com/muhammad-zain01/Github-Users/issues
-[license-shield]: https://img.shields.io/github/license/muhammad-zain01/Github-Users.svg?style=for-the-badge
-[license-url]: https://github.com/muhammad-zain01/Github-Users/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/muhammad-zain01/Currency_Converter.svg?style=for-the-badge
+[contributors-url]: https://github.com/muhammad-zain01/Currency_Converter/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/muhammad-zain01/Currency_Converter.svg?style=for-the-badge
+[forks-url]: https://github.com/muhammad-zain01/Currency_Converter/network/members
+[stars-shield]: https://img.shields.io/github/stars/muhammad-zain01/Currency_Converter.svg?style=for-the-badge
+[stars-url]: https://github.com/muhammad-zain01/Currency_Converter/stargazers
+[issues-shield]: https://img.shields.io/github/issues/muhammad-zain01/Currency_Converter.svg?style=for-the-badge
+[issues-url]: https://github.com/muhammad-zain01/Currency_Converter/issues
+[license-shield]: https://img.shields.io/github/license/muhammad-zain01/Currency_Converter.svg?style=for-the-badge
+[license-url]: https://github.com/muhammad-zain01/Currency_Converter/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: https://raw.githubusercontent.com/Muhammad-Zain01/Github-Users/main/preview.png
+[product-screenshot]: https://raw.githubusercontent.com/Muhammad-Zain01/Currency_Converter/main/preview.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-4A4A55?style=for-the-badge&logo=react&logoColor=white
