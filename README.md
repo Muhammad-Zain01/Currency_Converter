@@ -80,14 +80,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 
-<!-- CONTACT -->
-## Contact
-
-Your Name - zainmemon010@gmail.com
-
-Project Link: [https://github.com/muhammad-zain01/Currency_Converter](https://github.com/muhammad-zain01/Currency_Converter)
-
-
 [contributors-shield]: https://img.shields.io/github/contributors/muhammad-zain01/Currency_Converter.svg?style=for-the-badge
 [contributors-url]: https://github.com/muhammad-zain01/Currency_Converter/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/muhammad-zain01/Currency_Converter.svg?style=for-the-badge
