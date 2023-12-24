@@ -10,7 +10,7 @@
 </div>
 
   <p align="center" style="text-align: justify;">
-    Welcome to the GitHub User Directory - your portal to explore and discover GitHub users along with their followers and repositories. Our application offers a user-friendly interface that allows you to search for GitHub profiles using usernames. Once a profile is found, the app presents a detailed view including the user's avatar, bio, and a comprehensive list of their public repositories. Additionally, you can delve into the user's network by viewing a list of their followers, making it easier to explore community connections and collaborations.
+    Unleash the power of real-time currency conversion at your fingertips with our Currency Converter App, built using the robust and efficient React.js framework. With a sleek and intuitive user interface, this app allows you to effortlessly convert currencies across multiple countries in a jiffy.
   </p>
     <a href="https://github.com/muhammad-zain01/Currency_Converter"><strong>Explore the docs »</strong></a>
     <br />
